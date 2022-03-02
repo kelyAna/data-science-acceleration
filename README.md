@@ -1,30 +1,29 @@
-# Aceleração Data Science Codenation
+# Data Science Codenation Acceleration
 
-Este repositório contém atividades e os desafios desenvolvidos em cada módulo da aceleração de ciência de dados da Codenation.
-O AceleradDev DataScience segue a seguinte ementa:
+This reserve contains activities and data challenges from each science science module.
+AcceleradDev DataScience follows the following menu:
 
-* Semana 1 - Introdução a ciência de dados
-* Semana 2 - Pré-processamento de dados em Python
-* Semana 3 - Análise de dados exploratória
-* Semana 4 - Análise de dados exploratória(Continuação)
-* Semana 5 - Pensamento estatístico em Python
-* Semana 6 - Pensamento estatístico em Python(Continuação)
-* Semana 7 - Engenharia de Feature
-* Semana 8 - Regressão
-* Semana 9 - Classificação
+* Week 1 - Introduction to Data Science
+* Week 2 - Data preprocessing in Python
+* Week 3 - Exploratory data analysis
+* Week 4 - Exploratory Data Analysis (Continued)
+* Week 5 - Statistical Thinking in Python
+* Week 6 - Statistical Thinking in Python (Continued)
+* Week 7 - Outstanding Engineering
+* Week 8 - Regression
+* Week 9 - Classification
 
-### Instalar o Python no Ubuntu
+### Install Python on Ubuntu
 * sudo apt-get install python3
 * sudo apt-get install python3-pip
 
-### Instalar Anaconda no Ubuntu
+### Install Anaconda on Ubuntu
 * cd /tmp
 * curl -O https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
 
-Para verificar a integridade dos dados:
+To verify data data:
 * sha256sum Anaconda3-5.2.0-Linux-x86_64.sh
 
 * bash Anaconda3-5.2.0-Linux-x86_64.sh
 
-https://www.hostinger.com.br/tutoriais/instalar-anaconda-python-ubuntu/
-
+https://www.hostinger.com.br/tutorials/instalar-anaconda-python-ubuntu/
